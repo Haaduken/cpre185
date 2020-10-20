@@ -1,0 +1,2 @@
+U:\CPR E 185\lab8\lab8.c:11:29: fatal error: ncurses/ncurses.h: No such file or directory
+compilation terminated.
